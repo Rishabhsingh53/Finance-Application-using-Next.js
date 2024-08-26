@@ -1,1 +1,2 @@
 Because we want to only allow authenticated users inside dasboard we are using clerk.com
+logoissum
